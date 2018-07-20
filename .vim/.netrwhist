@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/de602504/Documents/code/ge-cookbooks/ge_os-hardening/recipes'
+let g:netrw_dirhist_2='/home/de602504/Documents/code/cloud/gesos/scripts/linux/platform_family/rhel'
+let g:netrw_dirhist_3='/home/de602504/Documents/code/ge/cloud/ge_linux-hardening-cookbook_wrapper/attributes'
+let g:netrw_dirhist_4='/home/de602504/Documents/code/ge/cloud/ge_windows-hardening-cookbook_wrapper'
+let g:netrw_dirhist_5='/home/de602504/Documents/code/ge/cloud/ge_cron-cb/attributes'
