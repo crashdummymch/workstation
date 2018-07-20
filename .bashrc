@@ -16,6 +16,7 @@ fi
 alias cdgit='cd ~/Documents/code/'
 alias lsa='ls -a'
 alias gerp='grep'
+alias bashrc='source ~/.bashrc'
 export LESS="-R -F -X $LESS"
 export LESSOPEN='|~/.lessfilter %s'
 
